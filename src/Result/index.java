@@ -7,7 +7,7 @@ package Result;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class index extends javax.swing.JFrame {
 
