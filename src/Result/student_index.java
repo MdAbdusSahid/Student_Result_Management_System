@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class student_index extends javax.swing.JFrame {
 
