@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class adminHome extends javax.swing.JFrame {
 
