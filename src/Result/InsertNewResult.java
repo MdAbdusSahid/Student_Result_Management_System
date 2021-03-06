@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class InsertNewResult extends javax.swing.JFrame {
 
