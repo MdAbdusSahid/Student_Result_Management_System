@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class StudentsResult extends javax.swing.JFrame {
 
