@@ -18,7 +18,7 @@ import java.sql.Statement;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class StudentHome extends javax.swing.JFrame {
 
