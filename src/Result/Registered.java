@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class Registered extends javax.swing.JFrame {
 
